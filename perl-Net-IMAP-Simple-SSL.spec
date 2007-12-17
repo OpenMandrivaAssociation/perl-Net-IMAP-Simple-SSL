@@ -17,7 +17,6 @@ Buildrequires: perl-devel
 %endif
 Buildrequires: perl(IO::Socket::SSL)
 BuildArch:	noarch
-Buildroot:	%{_tmppath}/%{name}-root
 
 %description
 This module is a subclass of Net::IMAP::SImple that includes SSL support.
