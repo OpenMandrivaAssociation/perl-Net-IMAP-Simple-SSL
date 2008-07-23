@@ -1,7 +1,7 @@
 %define realname Net-IMAP-Simple-SSL
 %define name perl-%{realname}
 %define version 1.3
-%define release %mkrel 6
+%define release %mkrel 8
 
 Summary:	SSL support for Net::IMAP::Simple
 Name:		%{name}
