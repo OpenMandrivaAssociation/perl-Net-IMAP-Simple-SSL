@@ -3,7 +3,7 @@
 Summary:	SSL support for Net::IMAP::Simple
 Name:		perl-%{realname}
 Version:	1.3
-Release:	11
+Release:	12
 License:	Artistic/GPL
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{realname}/
