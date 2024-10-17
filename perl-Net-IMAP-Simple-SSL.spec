@@ -6,7 +6,7 @@ Version:	1.3
 Release:	12
 License:	Artistic/GPL
 Group:		Development/Perl
-URL:		http://search.cpan.org/dist/%{realname}/
+URL:		https://search.cpan.org/dist/%{realname}/
 Source:		ftp://ftp.perl.org/pub/CPAN/modules/by-module/Net/%{realname}-%{version}.tar.bz2
 
 BuildRequires: perl-devel
